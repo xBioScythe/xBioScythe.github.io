@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "CW"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Casey Whittier"
@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Casey Whittier"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Looking for work in IT or security."
   location         : "Brooksville, FL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:caseywhittier01@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
